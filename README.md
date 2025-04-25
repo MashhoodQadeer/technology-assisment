@@ -68,7 +68,5 @@ The `.env` file should be located in the **root directory** of your Xcode projec
 > 
 
 ## .Demo View
-<video width="100%" controls>
-  <source src="DemoView.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+[ Watch Demo Video on Canva](https://www.canva.com/design/DAGlroT5J0w/POUCt1Ggs_vGANghWm1xnA/watch?utm_content=DAGlroT5J0w&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbaaa281cb1)
