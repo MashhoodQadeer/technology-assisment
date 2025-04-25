@@ -1,0 +1,203 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2025 The New York Times Company.  All Rights Reserved.",
+   "num_results":20,
+   "results":[
+      {
+         "uri":"nyt://article/71b944eb-ca32-5460-89a9-dc848a8c85c0",
+         "url":"https://www.nytimes.com/2025/04/18/business/trump-harvard-letter-mistake.html",
+         "id":100000010118782,
+         "asset_id":100000010118782,
+         "source":"New York Times",
+         "published_date":"2025-04-18",
+         "updated":"2025-04-20 15:55:23",
+         "section":"Business",
+         "subsection":"",
+         "nytdsection":"business",
+         "adx_keywords":"Federal Aid (US);United States Politics and Government;Colleges and Universities;Anti-Semitism;Legal Profession;Trump, Donald J;Harvard University",
+         "column":null,
+         "byline":"By Michael S. Schmidt and Michael C. Bender",
+         "type":"Article",
+         "title":"Trump Officials Blame Mistake for Setting Off Confrontation With Harvard",
+         "abstract":"An official on the administration’s antisemitism task force told the university that a letter of demands had been sent without authorization.",
+         "des_facet":[
+            "Federal Aid (US)",
+            "United States Politics and Government",
+            "Colleges and Universities",
+            "Anti-Semitism",
+            "Legal Profession"
+         ],
+         "org_facet":[
+            "Harvard University"
+         ],
+         "per_facet":[
+            "Trump, Donald J"
+         ],
+         "geo_facet":[
+            
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Harvard was emailed a letter detailing demands by the Trump administration when administration lawyers were still willing to continue talks.",
+               "copyright":"Sophie Park/Getty Images",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2025/04/18/multimedia/18biz-harvard-letter-bmwz/18biz-harvard-letter-bmwz-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2025/04/18/multimedia/18biz-harvard-letter-bmwz/18biz-harvard-letter-bmwz-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2025/04/18/multimedia/18biz-harvard-letter-bmwz/18biz-harvard-letter-bmwz-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/3bc4ce30-7bcd-514d-ba1b-30edc3c61f24",
+         "url":"https://www.nytimes.com/2025/04/20/us/politics/hegseth-yemen-attack-second-signal-chat.html",
+         "id":100000010120446,
+         "asset_id":100000010120446,
+         "source":"New York Times",
+         "published_date":"2025-04-20",
+         "updated":"2025-04-21 09:30:13",
+         "section":"U.S.",
+         "subsection":"Politics",
+         "nytdsection":"u.s.",
+         "adx_keywords":"United States Defense and Military Forces;Signal Chat Leak (Trump Administration);Classified Information and State Secrets;United States Politics and Government;War and Armed Conflicts;Hegseth, Pete;Trump, Donald J;Waltz, Michael (1974- );Parlatore, Timothy;Rauchet, Jennifer;Hegseth, Philip;Defense Department;Atlantic Monthly;Yemen",
+         "column":null,
+         "byline":"By Greg Jaffe, Eric Schmitt and Maggie Haberman",
+         "type":"Article",
+         "title":"Hegseth Said to Have Shared Attack Details in Second Signal Chat",
+         "abstract":"The defense secretary sent sensitive information about strikes in Yemen to an encrypted group chat that included his wife and brother, people familiar with the matter said.",
+         "des_facet":[
+            "United States Defense and Military Forces",
+            "Signal Chat Leak (Trump Administration)",
+            "Classified Information and State Secrets",
+            "United States Politics and Government",
+            "War and Armed Conflicts"
+         ],
+         "org_facet":[
+            "Defense Department",
+            "Atlantic Monthly"
+         ],
+         "per_facet":[
+            "Hegseth, Pete",
+            "Trump, Donald J",
+            "Waltz, Michael (1974- )",
+            "Parlatore, Timothy",
+            "Rauchet, Jennifer",
+            "Hegseth, Philip"
+         ],
+         "geo_facet":[
+            "Yemen"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The information that Defense Secretary Pete Hegseth shared on the second Signal chat included the flight schedules for the F/A-18 Hornets targeting the Houthis in Yemen, according to some of the people familiar with the chat.",
+               "copyright":"Eric Lee/The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2025/04/20/multimedia/20dc-Hegseth-thlb/20dc-Hegseth-thlb-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2025/04/20/multimedia/20dc-Hegseth-thlb/20dc-Hegseth-thlb-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2025/04/20/multimedia/20dc-Hegseth-thlb/20dc-Hegseth-thlb-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/d413ff33-18ce-5627-a2d1-6db7e45dcfcc",
+         "url":"https://www.nytimes.com/2025/04/21/opinion/larry-david-hitler-dinner.html",
+         "id":100000010117984,
+         "asset_id":100000010117984,
+         "source":"New York Times",
+         "published_date":"2025-04-21",
+         "updated":"2025-04-24 19:17:17",
+         "section":"Opinion",
+         "subsection":"",
+         "nytdsection":"opinion",
+         "adx_keywords":"Comedy and Humor;Holocaust and the Nazi Era;Jews and Judaism;Hitler, Adolf",
+         "column":null,
+         "byline":"By Larry David",
+         "type":"Article",
+         "title":"Larry David: My Dinner With Adolf",
+         "abstract":"When a private meeting goes unexpectedly.",
+         "des_facet":[
+            "Comedy and Humor",
+            "Holocaust and the Nazi Era",
+            "Jews and Judaism"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            "Hitler, Adolf"
+         ],
+         "geo_facet":[
+            
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Lia Darjes, \"Plate VII\"",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2025/04/25/opinion/21david1/21david1-thumbStandard-v4.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2025/04/25/opinion/21david1/21david1-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2025/04/25/opinion/21david1/21david1-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      }
+   ]
+}
