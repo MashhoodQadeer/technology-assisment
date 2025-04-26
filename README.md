@@ -44,7 +44,7 @@ A lightweight iOS application that integrates with the **New York Times Most Pop
 
 The `.env` file should be located in the **root directory** of your Xcode project and contain the following variables:
 
-	```env
+	
 	API_BASE_URL=api.nytimes.com/svc/
 	API_KEY=YOUR_API_KEY_HERE
 	API_VERSION=v2
